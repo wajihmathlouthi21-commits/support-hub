@@ -11,7 +11,7 @@
     "start": "bun run server.ts"
   },
   "dependencies": {
-    "@google/genai": "^0.1.1",
+    "@google/genai": "latest",
     "bun": "^1.1.0",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.30.10"
